@@ -1,4 +1,4 @@
-# Waze Project - Employee Data Analysis
+# Excel Project - Employee Data Analysis
 
 ## Overview
 This Excel-based project analyzes employee data from two regions (New Zealand and India) to provide insights into workforce demographics, compensation, and performance metrics. The workbook contains multiple sheets for data storage, analysis, and visualization.
