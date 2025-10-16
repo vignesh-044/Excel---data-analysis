@@ -51,9 +51,3 @@ This Excel-based project analyzes employee data from two regions (New Zealand an
 - Salary vs. rating correlation
 - Company growth over time
 - Regional scorecards comparing NZ and India metrics
-
-## Maintenance
-To update the analysis:
-1. Add new employee records to respective regional sheets
-2. Ensure formulas in "Total Staff" cover new rows
-3. Refresh any pivot tables or charts
